@@ -1,4 +1,4 @@
-#A2 - Game Theory - Prisoner's Dilemma
+Game Theory - Prisoner's Dilemma
 
 Description
 
